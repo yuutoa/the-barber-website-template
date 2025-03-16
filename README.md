@@ -3,6 +3,8 @@
 A clean landing page built with **HTML & CSS**.
 
 ![Preview](./preview/preview-image.png)
+![Preview](./preview/preview-image1.png)
+![Preview](./preview/preview-image2.png)
 
 ## Usage
 
